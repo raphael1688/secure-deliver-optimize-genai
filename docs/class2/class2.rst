@@ -71,7 +71,7 @@ Execute the following command to install NGINX Ingress controller with the provi
 .. Note:: 
    Please note that the purpose of this lab is not to provide a comprehensive guide for installing the NGINX Ingress Controller for AppProtect. Instead, it focuses on setting up a basic infrastructure to secure, deliver, and optimize GenAI applications. For detailed configuration best practices, please refer to the official documentation.
 
-   **values-plus-nap.yaml** is the modified values file for nginx-ingress helm chat. There were few variable being updated for this deplayment.
+   **values-plus-nap.yaml** is the modified values file for nginx-ingress helm chart. There were few variables being updated for this deployment.
 
 values-plus-nap.yaml ::
 

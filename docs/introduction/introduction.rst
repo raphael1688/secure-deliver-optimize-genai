@@ -1,7 +1,7 @@
 Introduction - AI Runtime Security Practitioner
 ================================================
 
-GenAI and AI Runtime Security skills and expertise are crucial for current and future organisations. It is paramount for organization to ensure any GenAI components deployed are secure and optimized to align with organisations overall AI strategy. 
+GenAI and AI Runtime Security skills and expertise are crucial for current and future organisations. It is paramount for organizations to ensure any GenAI components deployed are secure and optimized to align with organisations overall AI strategy. 
 
 As a AI Runtime Security Practitioner, your mission is to secure, deliver and optimize a modern generative AI apps.  These includes specializes in understanding, developing, securing and applying generative AI models and techniques to solve problems or create innovative solutions to drive business outcome. This role combines technical expertise, creativity, and domain knowledge to harness the potential of generative AI technologies like GPT, DALL-E, Stable diffusion and etc. You play a critical key business enabler role for the organization.
 
@@ -11,7 +11,7 @@ As a AI Runtime Security Practitioner, your mission is to secure, deliver and op
 
 Learning Path
 -------------
-To achieve a AI Runtime Security Practitioner, you will minimally required to work your way throught the learning path as shown below. A series of hand-on lab with every mission/class will need to be completed. 
+To achieve a AI Runtime Security Practitioner, you will minimally required to work your way throught the learning path as shown below. A series of hands-on labs with every mission/class will need to be completed. 
 
 ..  image:: ./_static/intro1.png
 

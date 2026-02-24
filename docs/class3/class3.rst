@@ -195,7 +195,7 @@ Select **Add New** to create a new agentflow
 
 ..  image:: ./_static/class3-17-0.png
 
-Import arcadia RAG agentflow into flowise. Select **Add New**, click **Settings icons** and **Load Agents**
+Import arcadia RAG agentflow into flowise. Select **Add New**, click the **Settings icon** (the gear) and **Load Agents** from the drop down. 
 
 A copy of the agemtflow located on the jumphost **Documents** directory. Select the chatflow json file.
 
@@ -208,7 +208,7 @@ A copy of the agemtflow located on the jumphost **Documents** directory. Select 
 
 ..  image:: ./_static/class3-17-1.png
 
-Save the agentflow (arcadia-agent-rag)
+Save the agentflow by clicking the floppy disk icon next to the gear icon for settings, name it "*arcadia-agent-rag*" and click **save**
 
 ..  image:: ./_static/class3-18.png
 
@@ -258,7 +258,8 @@ Ensure you save the agentflow with a name as shown.
 ..  image:: ./_static/class3-21.png
 
 .. Note:: 
-   Ensure all pods are in **Running** and **READY** state where all pods count ready before proceed.
+
+   Ensure all pods are in **Running** and **READY** state where all pods count ready before proceeding.
 
 Create an Nginx ingress resource to **expose Qdrant VectorDB service** externally from the Kubernetes cluster.
 
@@ -333,8 +334,8 @@ Search for keyword **openai** and select **OpenAI Embeddings Custom**
 
 ..  image:: ./_static/class3-doc-store-08.png
 
-Select **azure-open-ai** in **Connect Credential** to use OpenAI API key.
 
+Select **azure-open-ai** for the **Connect Credential**. 
 
 For **BasePath**, input the following URL
 
@@ -499,7 +500,7 @@ Suggested sample question ask to the RAG chatbot
 
    tell me more about david strong
 
-Source of inforamtion or "proprietary data" obtained from the text file store on Documents folder on the jumphost.
+Source of information or "proprietary data" obtained from the text file store on Documents folder on the jumphost.
 
 .. NOTE:: 
    You can clear the chat history with the middle red button on the chat window.

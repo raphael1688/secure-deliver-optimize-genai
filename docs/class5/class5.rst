@@ -274,6 +274,8 @@ There are three project types
   
   Use this project if you want to use F5 AI Guardrails built-in chat interface to interact with your LLMs. securely.
 
+Click **Projects** to go to Projects screen.
+
 ..  image:: ./_static/class5-aigr-project-1.png
 
 Start defining your **App name** and click **Create**
@@ -376,6 +378,9 @@ Scanners screen allow administrator to use existing in-built scanner or creatre 
 
 
 F5 AI Guardrails scanners help keep organization AI models secure, compliant, and tailored to your organization's needs
+
+Click **Scanners** to go to Scanner screen.
+
 
 ..  image:: ./_static/class5-scanner-1.png
 
